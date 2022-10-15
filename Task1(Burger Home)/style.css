@@ -1,0 +1,308 @@
+.nav{
+    background-image: url("Images/banner.jpg");
+    background-repeat: no-repeat;
+    height:550px;
+    width:100%;
+    
+}
+a
+{
+    float:right;
+    padding: 35px;
+    padding-top:50px;
+    font-weight:500;
+    color:rgb(123, 2, 2);
+    right:10px;
+
+}
+.column 
+{
+    float: right;
+    padding: 35px;
+    width:50%;
+    padding-right:1px;
+    bottom:50px;
+} 
+.column1
+{
+    float:left;
+    padding-top:50px;
+}
+p
+{
+ border-style: dashed;
+ padding-left:1%;
+ color:brown;
+ font-size:12px;
+ top:200px;
+ position:absolute;
+ left:40px;
+
+}
+p1
+{
+    font-size:80px;
+    font-style: Tahoma, sans-serif;
+    padding-left:3%;
+    color: rgb(86, 2, 2);
+    text-shadow: 2px 2px 5px white;
+    top:250px;
+    position:absolute;
+}
+P2
+{
+    font-size:40px;
+    font-style:Tahoma, sans-serif;
+    padding-left:3%;
+    text-shadow: 2px 2px 5px white;
+    color: rgb(86, 2, 2);
+    top:350px;
+    position:absolute;
+
+}
+.video
+{
+    
+    border-radius: 30px;
+    border:10px solid rgb(234, 228, 53);
+    margin:3%;
+    padding-left:1%;
+
+
+}
+p3
+{
+    float:center;
+    font-size: 50px;
+    font-style: initial;
+    color:rgb(123, 2, 2);
+    padding-left:29.5%;
+    padding-top: 40%;
+    margin-top: 20%;
+}
+p4
+{
+    padding-left: 15%;
+    font-size: 18px;
+    padding-top: 10%;
+    color:brown;
+    font-style: oblique;
+    float:center;
+    padding-right:20;
+}
+p5
+{
+    padding-left: 20%;
+    font-size: 18px;
+    padding-top: 10%;
+    color:brown;
+    font-style: oblique;
+    float:center;
+    padding-right:40px;
+}
+.column2
+{
+        float: left;
+        width: 25%;
+        padding: 20px;
+        padding-top: 10%;
+        padding-left:5%;
+}
+.row::after {
+        content: "";
+        clear: both;
+        display: table;
+    }
+    p6
+    {
+        font-size: 30px;
+        color:rgb(123, 2, 2);
+        font-family: Tahoma, sans-serif;
+    }
+    p7
+    {
+        font-size: 30px;
+        font-family: Tahoma, sans-serif;
+        color:rgb(123, 2, 2);
+    }
+    p8
+    {
+        font-size: 30px;
+        font-family: Tahoma, sans-serif;
+        color:rgb(123, 2, 2);
+    }
+    p9
+    {
+        padding-top:10%;
+        font-size:18px;
+        padding-right:5%;
+        color:brown;
+    }
+    p10
+    {
+        padding-top:10%;
+        font-size:18px;
+        padding-right:5%;
+        color:brown;
+    }
+    p11
+    {
+        padding-top:10%;
+        font-size:18px;
+        padding-right:5%;
+        color:brown;
+    }
+    p12
+    {
+        padding-top:10%;
+        font-size:18px;
+        padding-right:5%;
+        color:brown;
+    }
+    p13
+    {
+        padding-top:10%;
+        font-size:18px;
+        padding-right:5%;
+        color:brown;
+    }
+    p14
+    {
+        padding-top:10%;
+        font-size:18px;
+        padding-right:5%;
+        color:brown;
+    }
+    .button
+    {
+        float:center;
+        width: 250px;
+        margin-top: 50px;
+        background-color:red;
+        height:50px;
+        color:white;
+        font-size:80%;
+        text-align: center;
+    }
+    .container {
+                display:grid;
+                column-gap: 50px;
+                grid-template-columns: auto auto;
+                background-color: white;
+                padding: 50px;
+                width:90%;
+                border-style:outset;
+            }
+            p15
+            {
+                color:rgb(123, 2, 2);
+                font-size:30px;
+                font-family: Tahoma, sans-serif;
+                margin-top: 50px;
+            }
+            .col4
+            {
+                float: right;
+                padding: 5px;
+                padding-right: 200px;
+                text-align: right;
+                padding-top: 70px;
+            } 
+            p16
+            {
+                color:rgb(123, 2, 2);;
+                float:left;
+                font-size:60px;
+                font-family: Tahoma, sans-serif;
+            }
+            p17
+            {
+                float:left;
+                font-size:20px;
+                font-style: initial;
+                color:brown
+            }
+            p18
+            {
+                float:left;
+                font-size:20px;
+                font-style: initial;
+                color:brown
+            }
+            p19
+            {
+                float:left;
+                font-size:20px;
+                font-style: initial;
+                color:brown
+            }
+            p20
+            {
+                float:left;
+                font-size:20px;
+                font-style: initial;
+                color:brown
+            }
+            p21
+            {
+                float:left;
+                font-size:20px;
+                font-style: initial;
+                color:brown
+            }
+            .end
+            {
+                margin-top: 50px;
+            }
+            p22
+            {
+               
+                font-size: 25px;
+                font-family: Tahoma, sans-serif;
+                float:center;
+                color:rgb(123, 2, 2);
+                text-align: center;
+                padding-left:43%;
+                padding-top: 50%;
+            }
+            p23
+            {
+               
+                font-size: 55px;
+                font-family: Tahoma, sans-serif;
+                float:center;
+                color:rgb(123, 2, 2);
+                text-align: center;
+                padding-left:32%;
+                padding-top: 50%;
+            }
+            .details
+            {
+                padding-top: 5%;
+                float:center;
+                text-align: center;
+                padding:30px;
+                border-spacing: 10%;
+                padding-left: 2%;
+                
+
+            }
+            .button1
+            {
+                float:center;
+                width: 170px;
+                font-style:inherit;
+                background-color:red;
+                color:white;
+                font-size:80%;
+                text-align: center;
+                margin:1%;
+                height:30px;
+            }
+            input
+            {
+                margin:1%;
+                height:25px;
+            }
+        
+            
